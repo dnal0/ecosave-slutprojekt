@@ -69,6 +69,12 @@ ecosave-se/
     └── er-diagram.png  # (lägg till din dbdiagram-bild här)
 ```
 
+## ER-diagram
+
+ER-diagrammet finns här:
+[`docs/er-diagram.png`](docs/er-diagram.png)
+
+
 ## Framtida förbättringar (Todo)
 - Riktig användarinloggning med flera konton
 - Direktkoppling till Tibber eller elnätsleverantörens API
