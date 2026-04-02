@@ -50,12 +50,6 @@ python app.py
 
 **Inloggning**  
 Lösenord: `your_password_here`  
-(du kan ändra det högst upp i `app.py`)
-
-## Viktigt att ändra innan du pushar till GitHub
-- Ändra `app.secret_key` i `app.py` (den som står nu är bara för test)
-- Ändra inloggningslösenordet om du vill
-- Ta aldrig med riktiga lösenord eller känslig information i repot
 
 ## Projektstruktur
 ```
@@ -66,7 +60,7 @@ ecosave-se/
 ├── priviliges.sql      # Skapar MySQL-användaren med rätt rättigheter
 ├── README.md
 └── docs/
-    └── er-diagram.png  # (lägg till din dbdiagram-bild här)
+    └── er-diagram.png  
 ```
 
 ## ER-diagram
