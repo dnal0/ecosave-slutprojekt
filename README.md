@@ -17,7 +17,7 @@ Appen är helt på svenska och körs lokalt på Ubuntu med Flask + MySQL.
 - **Databas**: MySQL 8
 - **Frontend**: Bootstrap 5 + Chart.js
 - **Extra**: pandas, scikit-learn (för prognos), pymysql, requests
-- **ER-diagram**: Finns i mappen `docs/` (eller se bilden du genererade i dbdiagram.io)
+- **ER-diagram**: Finns i mappen `docs/`
 
 ## Hur man kör projektet lokalt
 
